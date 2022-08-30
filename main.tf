@@ -1,5 +1,5 @@
 ## Tasks for Part Time Devops Job
-## Author 
+## Author: Faisal Usman
 
 provider "aws" {
     alias = "primary"
